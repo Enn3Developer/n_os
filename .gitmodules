@@ -1,3 +1,0 @@
-[submodule "apps/app-todo"]
-	path = apps/app-todo
-	url = https://github.com/owdproject/app-todo.git
