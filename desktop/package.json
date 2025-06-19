@@ -12,7 +12,7 @@
         "preview": "nuxt preview"
     },
     "dependencies": {
-        "@enn3devplayer/owd-mines": "^0.2.2",
+        "@enn3devplayer/owd-mines": "^0.3.0",
         "@owdproject/app-about": "^0.1.0",
         "@owdproject/app-debug": "^0.1.0",
         "@owdproject/app-terminal": "^0.1.1",
